@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="3"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Top Navigation skin"
+  EnableResponsiveOutput="True">
+  <WebHelpOptions
+    NavigationPanePosition="Right"
+    MainMenuPosition="Top"
+    EnableSticky="All" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Menu" />
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>
