@@ -4,4 +4,8 @@
     Name="PhoneNumber"
     Comment=""
     EvaluatedDefinition="858-123-4567">858-123-4567</Variable>
+  <Variable
+    Name="Country"
+    Comment=""
+    EvaluatedDefinition="Japan">Japan</Variable>
 </CatapultVariableSet>
